@@ -1,0 +1,20 @@
+{
+  "additional_special_tokens": [
+    {
+      "content": "<END>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false
+    }
+  ],
+  "bos_token": {
+    "content": "<|begin_of_text|>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  },
+  "eos_token": "<END>",
+  "pad_token": "<END>"
+}
