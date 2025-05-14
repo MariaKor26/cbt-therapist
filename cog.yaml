@@ -1,6 +1,7 @@
+build:
+  python_version: "3.11"
+  python_requirements: requirements.txt
+
+predict: "predict.py:Predictor"
+
 image: r8.im/mariakor26/cbt-therapist
-
-predict: predict.py
-
-requirements:
-  - requirements.txt
