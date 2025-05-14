@@ -1,25 +1,6 @@
 image: r8.im/mariakor26/cbt-therapist
 
-# The Python script that defines the prediction logic
 predict: predict.py
 
-# Define required Python packages
-# These will be installed in a virtual environment
-# when your model runs on Replicate
 requirements:
   - requirements.txt
-
-# Define what inputs your API will accept
-# You can customize the names, types, and default values
-inputs:
-  user_input:
-    type: string
-    description: "User message or thought to analyze"
-  threshold:
-    type: number
-    default: 0.8
-    description: "Confidence threshold for pattern detection"
-
-# Describe what output you return
-# (not required to list here, but helpful to keep in mind)
-# Your predict.py should return a dictionary or string
