@@ -1,0 +1,2956 @@
+{
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1
+  },
+  "('jumping to conclusions: mind reading', 'personalization')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive',)": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'mental filtering', 'personalization')": {
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'personalization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1
+  },
+  "('jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'mental filtering', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'mental filtering')": {
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'labeling and mislabeling')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'personalization')": {
+    "problem-solving skills training": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('personalization',)": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'personalization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'mental filtering', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "decatastrophizing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "behavior experiment": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1
+  },
+  "('jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'mental filtering')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'personalization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization')": {
+    "problem-solving skills training": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: fortune-telling',)": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'labeling and mislabeling', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'mental filtering')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "problem-solving skills training": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: mind reading', 'labeling and mislabeling')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1
+  },
+  "('labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'personalization')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'personalization')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking',)": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "problem-solving skills training": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'labeling and mislabeling', 'mental filtering')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'personalization')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'labeling and mislabeling', 'personalization')": {
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'labeling and mislabeling')": {
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "problem-solving skills training": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('jumping to conclusions: mind reading', 'mental filtering')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading')": {
+    "reality testing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'mental filtering', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: mind reading', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'labeling and mislabeling', 'mental filtering')": {
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'personalization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "decatastrophizing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'mental filtering')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'labeling and mislabeling', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'mental filtering')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'overgeneralization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('jumping to conclusions: mind reading',)": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'labeling and mislabeling', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'mental filtering', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'personalization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'personalization')": {
+    "alternative perspective": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'personalization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'personalization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1
+  },
+  "('discounting the positive', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering')": {
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'labeling and mislabeling', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('labeling and mislabeling', 'overgeneralization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering')": {
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('labeling and mislabeling', 'mental filtering')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "decatastrophizing": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'mental filtering')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'mental filtering')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('labeling and mislabeling',)": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'mental filtering')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'overgeneralization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'personalization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'overgeneralization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading')": {
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'labeling and mislabeling', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'mental filtering')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling')": {
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'mental filtering')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('mental filtering',)": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'overgeneralization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering')": {
+    "changing rules to wishes": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('overgeneralization',)": {
+    "changing rules to wishes": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'personalization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'personalization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'labeling and mislabeling', 'overgeneralization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'personalization')": {
+    "behavior experiment": 1,
+    "reality testing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'labeling and mislabeling', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'mental filtering', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('discounting the positive', 'mental filtering', 'personalization')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "problem-solving skills training": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'personalization')": {
+    "reality testing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'labeling and mislabeling', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "problem-solving skills training": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering')": {
+    "reality testing": 1,
+    "problem-solving skills training": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'personalization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'personalization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('mental filtering', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'mental filtering', 'personalization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'labeling and mislabeling')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'personalization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'labeling and mislabeling', 'mental filtering')": {
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'labeling and mislabeling', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'mental filtering', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading')": {
+    "reality testing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'mental filtering')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'personalization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: mind reading', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'labeling and mislabeling')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('discounting the positive', 'mental filtering', 'overgeneralization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'mental filtering', 'personalization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling')": {
+    "behavior experiment": 1,
+    "alternative perspective": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'overgeneralization')": {
+    "reality testing": 1,
+    "behavior experiment": 1
+  },
+  "('labeling and mislabeling', 'personalization')": {
+    "reality testing": 1,
+    "changing rules to wishes": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'overgeneralization')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'mental filtering')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "alternative perspective": 1,
+    "changing rules to wishes": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'mental filtering', 'personalization')": {
+    "decatastrophizing": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "reality testing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'labeling and mislabeling', 'mental filtering', 'personalization')": {
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'labeling and mislabeling', 'mental filtering')": {
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'mental filtering')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1
+  },
+  "('catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1,
+    "reality testing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: fortune-telling', 'overgeneralization', 'personalization')": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "efficiency evaluation": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "changing rules to wishes": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling')": {
+    "reality testing": 1,
+    "decatastrophizing": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering', 'overgeneralization')": {
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'discounting the positive', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'mental filtering')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'discounting the positive', 'labeling and mislabeling')": {
+    "alternative perspective": 1,
+    "behavior experiment": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'catastrophizing', 'mental filtering')": {
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: mind reading', 'mental filtering', 'overgeneralization', 'personalization')": {
+    "alternative perspective": 1,
+    "problem-solving skills training": 1,
+    "behavior experiment": 1
+  },
+  "('catastrophizing',)": {
+    "changing rules to wishes": 1,
+    "reality testing": 1,
+    "decatastrophizing": 1,
+    "alternative perspective": 1
+  },
+  "('catastrophizing', 'discounting the positive', 'labeling and mislabeling', 'overgeneralization', 'personalization')": {
+    "efficiency evaluation": 1,
+    "decatastrophizing": 1,
+    "behavior experiment": 1,
+    "alternative perspective": 1
+  },
+  "('discounting the positive', 'jumping to conclusions: fortune-telling', 'jumping to conclusions: mind reading', 'labeling and mislabeling', 'personalization')": {
+    "efficiency evaluation": 1
+  },
+  "('black-and-white or polarized thinking / all or nothing thinking', 'jumping to conclusions: fortune-telling', 'mental filtering', 'personalization')": {
+    "efficiency evaluation": 1,
+    "problem-solving skills training": 1
+  }
+}

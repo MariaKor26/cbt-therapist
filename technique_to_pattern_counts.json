@@ -1,0 +1,79 @@
+{
+  "problem-solving skills training": {
+    "black-and-white or polarized thinking / all or nothing thinking": 73,
+    "catastrophizing": 64,
+    "jumping to conclusions: fortune-telling": 98,
+    "jumping to conclusions: mind reading": 56,
+    "mental filtering": 87,
+    "overgeneralization": 101,
+    "discounting the positive": 61,
+    "labeling and mislabeling": 80,
+    "personalization": 87
+  },
+  "alternative perspective": {
+    "catastrophizing": 203,
+    "discounting the positive": 205,
+    "jumping to conclusions: fortune-telling": 216,
+    "mental filtering": 223,
+    "personalization": 218,
+    "jumping to conclusions: mind reading": 196,
+    "labeling and mislabeling": 207,
+    "overgeneralization": 236,
+    "black-and-white or polarized thinking / all or nothing thinking": 200
+  },
+  "behavior experiment": {
+    "discounting the positive": 158,
+    "jumping to conclusions: fortune-telling": 182,
+    "jumping to conclusions: mind reading": 144,
+    "overgeneralization": 206,
+    "black-and-white or polarized thinking / all or nothing thinking": 149,
+    "mental filtering": 179,
+    "catastrophizing": 150,
+    "labeling and mislabeling": 171,
+    "personalization": 167
+  },
+  "decatastrophizing": {
+    "jumping to conclusions: fortune-telling": 154,
+    "overgeneralization": 166,
+    "black-and-white or polarized thinking / all or nothing thinking": 132,
+    "catastrophizing": 204,
+    "labeling and mislabeling": 137,
+    "mental filtering": 147,
+    "personalization": 148,
+    "discounting the positive": 120,
+    "jumping to conclusions: mind reading": 121
+  },
+  "changing rules to wishes": {
+    "jumping to conclusions: mind reading": 65,
+    "personalization": 90,
+    "discounting the positive": 83,
+    "labeling and mislabeling": 97,
+    "mental filtering": 90,
+    "black-and-white or polarized thinking / all or nothing thinking": 81,
+    "jumping to conclusions: fortune-telling": 87,
+    "overgeneralization": 115,
+    "catastrophizing": 68
+  },
+  "efficiency evaluation": {
+    "discounting the positive": 125,
+    "jumping to conclusions: mind reading": 74,
+    "labeling and mislabeling": 110,
+    "mental filtering": 122,
+    "personalization": 114,
+    "black-and-white or polarized thinking / all or nothing thinking": 101,
+    "jumping to conclusions: fortune-telling": 120,
+    "overgeneralization": 128,
+    "catastrophizing": 72
+  },
+  "reality testing": {
+    "black-and-white or polarized thinking / all or nothing thinking": 188,
+    "catastrophizing": 186,
+    "jumping to conclusions: fortune-telling": 214,
+    "labeling and mislabeling": 200,
+    "personalization": 205,
+    "discounting the positive": 195,
+    "mental filtering": 210,
+    "overgeneralization": 222,
+    "jumping to conclusions: mind reading": 192
+  }
+}
